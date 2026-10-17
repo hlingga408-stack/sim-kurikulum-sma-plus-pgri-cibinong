@@ -1,0 +1,6 @@
+{
+  "name": "SIM-Kurikulum SMA Plus PGRI Cibinong",
+  "description": "Sistem Informasi Manajemen Kurikulum SMA Plus PGRI Cibinong: Dokumen KOSP, Modul Ajar, Program Kerja, Supervisi Guru, AI Asisten Kurikulum, dan Notifikasi Kalender.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
